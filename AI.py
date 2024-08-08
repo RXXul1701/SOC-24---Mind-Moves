@@ -1,8 +1,4 @@
-'''
-Created on Dec 3, 2016
 
-@author: Sam Ragusa
-'''
 
 import random
 import json
