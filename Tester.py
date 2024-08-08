@@ -1,5 +1,3 @@
-"""
-@author: Sam Ragusa
 
 IMPORTANT NOTE:
 -Since I am currently executing the AI checkers games from the file AI.py,
